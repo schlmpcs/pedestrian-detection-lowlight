@@ -1,0 +1,6 @@
+
+train: D:\Interview_assignment\yolo_data_txt\images\train
+val: D:\Interview_assignment\yolo_data_txt\images\val
+
+nc: 1
+names: ['person']

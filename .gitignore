@@ -1,0 +1,12 @@
+echo "runs/
+runs_l/
+*.pt
+*.zip
+find-person-in-the-dark/
+yolo_data_txt/
+runs/
+evaluate/
+__pycache__/
+.DS_Store
+*.log
+" > .gitignore
